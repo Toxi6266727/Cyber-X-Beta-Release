@@ -43,17 +43,17 @@ global.socialm = "GitHub: darkalphaxteam" //ur github or insta name
 global.location = "Sri Lanka, Kurunagala, Nikaweratiya" //ur location
 
 //BOT COSTOMIZEDTATION
-global.owner = ['94711421243']
-global.ownertag = '9471421243' //ur tag number
-global.botname = 'CYBER-X TEST EDITION' //ur bot name
-global.ig = "https://youtu.be/uzMbW5v9QLE" //your theme url which will be displayed on whatsapp
-global.myweb = "https://youtu.be/uzMbW5v9QLE" //ur website to be displayed
-global.sc = 'https://github.com/darkalphaxteam' //script link
-global.linkz = 'https://youtu.be/uzMbW5v9QLE'
+global.owner = ['94757558130']
+global.ownertag = '94757558130' //ur tag number
+global.botname = 'XOFIY-X TEST EDITION' //ur bot name
+global.ig = "na" //your theme url which will be displayed on whatsapp
+global.myweb = "na" //ur website to be displayed
+global.sc = na' //script link
+global.linkz = 'na'
 global.reactmoji = "😘" //ur menu react emoji
 global.themeemoji = "🚀" //ur theme emoji
-global.packname = "Cyber-X Test Bot" //ur sticker watermark packname
-global.author = "DARK ALPHA" //ur sticker watermark author
+global.packname = "Xofiy-X Test Bot" //ur sticker watermark packname
+global.author = "Dark Wyte" //ur sticker watermark author
 global.aliveimg ="https://telegra.ph/file/71c859102f3625d06204b.jpg"
 global.allmenuimg ="https://telegra.ph/file/4f8a6f14430de2a4f4991.jpg"
 global.welcomeimg= "https://telegra.ph/file/844812c77704231c08a90.jpg"
